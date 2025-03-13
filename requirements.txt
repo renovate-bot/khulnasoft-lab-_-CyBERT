@@ -34,7 +34,7 @@ datasets==1.11.0
 decorator==4.4.2
 deepspeed==0.5.4
 defusedxml==0.6.0
-Deprecated==1.2.12
+Deprecated==1.2.18
 dill==0.3.4
 docker==4.3.1
 docker-pycreds==0.4.0
