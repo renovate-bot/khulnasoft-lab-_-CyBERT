@@ -41,7 +41,7 @@ docker-pycreds==0.4.0
 entrypoints==0.3
 fake-useragent==0.1.11
 filelock==3.0.12
-Flask==1.1.2
+Flask==2.2.5
 flatbuffers==2.0
 flawfinder==2.0.18
 fsspec==2021.7.0
