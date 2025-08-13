@@ -100,7 +100,7 @@ networkx==2.5
 ninja==1.10.2.2
 notebook==6.1.4
 numba==0.52.0
-numexpr==2.7.3
+numexpr==2.8.5
 numpy==1.19.2
 oauthlib==3.1.0
 opt-einsum==3.3.0
