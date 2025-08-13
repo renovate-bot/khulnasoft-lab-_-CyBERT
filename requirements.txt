@@ -7,7 +7,7 @@ astunparse==1.6.3
 async-generator==1.10
 attrs==20.2.0
 azure-core==1.8.2
-azure-storage-blob==12.5.0
+azure-storage-blob==12.13.0
 backcall==0.2.0
 beautifulsoup4==4.10.0
 bertviz==1.2.0
