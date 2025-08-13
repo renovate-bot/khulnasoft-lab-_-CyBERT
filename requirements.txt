@@ -190,7 +190,7 @@ torch-spline-conv==1.2.0
 torchaudio==0.7.0
 torchtext==0.8.0
 torchvision==0.8.1+cu101
-tornado==6.0.4
+tornado==6.5
 tqdm==4.51.0
 traitlets==5.0.5
 transformers==4.36.0
