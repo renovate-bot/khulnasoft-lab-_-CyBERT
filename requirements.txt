@@ -206,7 +206,7 @@ wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==0.57.0
 websockets==10.2
-Werkzeug==1.0.1
+Werkzeug==3.0.6
 wrapt==1.12.1
 xxhash==2.0.2
 zipp==3.6.0
